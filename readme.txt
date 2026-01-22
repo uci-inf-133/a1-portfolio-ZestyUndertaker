@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for *Alex Gonzalez*, *alexeg1@uci.edu*--
 
 A reminder on academic integrity, as described in the syllabus.
 
@@ -11,26 +11,29 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
 - */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+Headings, scrolling, and paragraphs
 
 
 (b) CSS features
-
+- custom google font
+- resizing images and icons
+- custom colors
 
 
 (c) Advanced features
-
+- hamburger navigation
+-links leading to headings
 
 
 
@@ -39,16 +42,19 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+Around 7+ hours
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-
+I followed along the youtube video below to help build the website while adding my own stylistic choices along the way.
+https://www.youtube.com/watch?v=ldwlOzRvYOU
+After finishing, I realize that this may not be considered "appropriate" material to use but please let me know for future assignments as it was not my intention to pass
+off others' work as my own. :(
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+No classmates
 
 
 7. Is there anything special we need to know in order to run your code?
-
+Not that I am aware of.
